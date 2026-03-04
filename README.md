@@ -123,8 +123,41 @@ Monitoreo y alertas de cargas diarias de datos
 Mantenimiento y optimización de procesos de integración
 Desarrollo de dashboards para monitorear variables clave del negocio
 
+# Analisis Oferta 4 — ids comercial TI
+Nombre del puesto: Analista de Gobierno de Datos
+Empresa: ids comercial TI
+Modalidad: Híbrido | Santa Ana, San José, Costa Rica
+Portal: LinkedIn Jobs
 
+# Tecnologías requeridas
 
+SQL (nivel básico-intermedio)
+Google Cloud Platform (GCP)
+Power BI
+Dataiku
+Excel Avanzado
+
+# Habilidades técnicas (Hard Skills)
+
+Análisis de datos y procesos organizacionales
+Gobernanza y gestión de datos
+Manejo de bases de datos
+Uso de herramientas cloud (GCP)
+Visualización con Power BI y Dataiku
+
+# Habilidades blandas (Soft Skills)
+
+Organización y gestión de procesos
+Atención al cumplimiento de estándares (empresa certificada CMMI nivel 5)
+Trabajo colaborativo en consultoría
+Adaptabilidad y aprendizaje continuo
+
+#  Responsabilidades principales
+
+Participar en procesos de gobernanza y calidad de datos
+Análisis de datos organizacionales
+Uso de herramientas tecnológicas para gestión de datos
+Colaboración con equipos de TI y negocio
 
 
 
