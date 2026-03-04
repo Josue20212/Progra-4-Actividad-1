@@ -198,7 +198,9 @@ Documentar requerimientos y diseños
 Mantenimiento y soporte de pipelines
 Colaborar con equipos internos, contratistas y científicos de datos
 
-
+# Tabla de patrones comunes
+Luego del analisis de las ofertas encontramos ciertos patrones comunes 
+Habilidad / TecnologíaKonradBairesDevLifemilesids TIGoodyearFrecuenciaSQL✅✅✅✅✅5/5 — 100%Python✅—✅—✅3/5 — 60%Power BI / Tableau / BI Tools✅✅✅✅✅5/5 — 100%ETL / Pipelines de datos——✅—✅2/5 — 40%Cloud (GCP / AWS / Azure)✅—✅✅✅4/5 — 80%Modelado de datos / Data Warehouse✅✅✅—✅4/5 — 80%Comunicación con stakeholders✅✅✅✅✅5/5 — 100%Trabajo en equipo / colaboración✅✅✅✅✅5/5 — 100%Inglés técnico✅✅——✅3/5 — 60%Atención al detalle✅✅✅✅✅5/5 — 100%
 
 
 
