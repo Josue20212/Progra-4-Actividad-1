@@ -159,6 +159,44 @@ Análisis de datos organizacionales
 Uso de herramientas tecnológicas para gestión de datos
 Colaboración con equipos de TI y negocio
 
+# Analisis Oferta 5 — Goodyear
+Nombre del puesto: Data Analyst / Data Engineering Senior Analyst
+Empresa: The Goodyear Tire & Rubber Company
+Modalidad: Híbrido | San José, Costa Rica
+Portal: LinkedIn Jobs
+
+# Tecnologías requeridas
+
+SQL y noSQL (Teradata, Redshift, MongoDB)
+Python, Scala, Golang
+AWS y Azure (cloud)
+Tableau, Cognos, Informatica
+CI/CD y DevOps
+AI / ML / Cognitive Services
+
+# Habilidades técnicas (Hard Skills)
+
+Creación y mantenimiento de pipelines ETL
+Big Data y data streams
+Desarrollo de software orientado a datos
+Cloud-native y microservicios
+Prácticas Agile
+Documentación técnica de pipelines
+
+# Habilidades blandas (Soft Skills)
+
+Comunicación con stakeholders de IT y negocio
+Trabajo con equipos on/off-shore
+Coordinación multidisciplinaria (Data Scientists, SBUs, IT)
+Documentación clara y estructurada
+
+# Responsabilidades principales
+
+Crear y actualizar pipelines de datos (ETL)
+Manipulación y despliegue de datos
+Documentar requerimientos y diseños
+Mantenimiento y soporte de pipelines
+Colaborar con equipos internos, contratistas y científicos de datos
 
 
 
