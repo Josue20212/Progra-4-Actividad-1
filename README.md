@@ -198,12 +198,26 @@ Documentar requerimientos y diseños
 Mantenimiento y soporte de pipelines
 Colaborar con equipos internos, contratistas y científicos de datos
 
-# Tabla de patrones comunes
-Luego del analisis de las ofertas encontramos ciertos patrones comunes 
-Habilidad / TecnologíaKonradBairesDevLifemilesids TIGoodyearFrecuenciaSQL✅✅✅✅✅5/5 — 100%Python✅—✅—✅3/5 — 60%Power BI / Tableau / BI Tools✅✅✅✅✅5/5 — 100%ETL / Pipelines de datos——✅—✅2/5 — 40%Cloud (GCP / AWS / Azure)✅—✅✅✅4/5 — 80%Modelado de datos / Data Warehouse✅✅✅—✅4/5 — 80%Comunicación con stakeholders✅✅✅✅✅5/5 — 100%Trabajo en equipo / colaboración✅✅✅✅✅5/5 — 100%Inglés técnico✅✅——✅3/5 — 60%Atención al detalle✅✅✅✅✅5/5 — 100%
+# Patrones comunes
+Patrones comunes identificados
+Al revisar las cinco ofertas en conjunto, destacan patrones muy claros que definen lo que el mercado costarricense y latinoamericano espera de un Data Analyst hoy.
+SQL y visualización son absolutamente no negociables. Las cinco empresas — Konrad, BairesDev, Lifemiles, ids comercial TI y Goodyear — lo solicitan de forma explícita. No importa si el rol se llama "Analista de Datos", "Power BI Analyst" o "Data Engineer", siempre aparecen estas dos habilidades como base mínima. SQL para extraer y manipular datos, y alguna herramienta de BI (Power BI, Tableau, Looker) para comunicar los resultados.
+El cloud ya no es opcional. Cuatro de las cinco ofertas mencionan plataformas cloud, ya sea GCP, AWS o Azure. Esto indica que el mercado está migrando rápidamente hacia infraestructuras en la nube y espera que los analistas puedan trabajar en esos entornos, aunque sea a nivel básico.
+Python aparece como el lenguaje preferido, presente en tres ofertas directamente y valorado en las demás. Ninguna empresa menciona exclusivamente otro lenguaje como reemplazo, lo que confirma su posición dominante en el área de datos.
+La comunicación con stakeholders es igual de importante que lo técnico. Las cinco ofertas, sin excepción, mencionan la necesidad de interactuar con equipos de negocio, presentar resultados y traducir preguntas del negocio en análisis concretos. Esto deja claro que un analista que solo sabe programar pero no sabe comunicar tiene una desventaja importante en el mercado.
+El trabajo en equipo y la colaboración multidisciplinaria son competencias transversales en todas las ofertas. Los analistas no trabajan solos: interactúan con ingenieros de datos, científicos de datos, equipos de IT y stakeholders de negocio simultáneamente.
 
+# Perfil Profesional Objetivo
+Con base en este análisis, el perfil objetivo definido es Data Analyst Junior con orientación a Data Engineering, dentro de una empresa de tecnología multinacional con operaciones en Costa Rica. Este perfil se elige porque concentra las habilidades más demandadas en el mercado local, tiene una ruta de crecimiento clara (Junior → Senior → Data Engineer) y permite impacto directo en decisiones estratégicas del negocio desde etapas tempranas de la carrera.
 
+# Justificación del enfoque del sitio web
+El portafolio está diseñado como una herramienta de postulación a un puesto ficticio de Data Analyst Junior en una empresa tecnológica multinacional con sede en San José, Costa Rica, similar al perfil que buscan Konrad o Goodyear. Esta decisión se justifica porque es el tipo de empresa más representativo en las ofertas analizadas, combina el componente analítico con el técnico, y permite mostrar tanto proyectos de visualización como de ingeniería de datos en un mismo portafolio coherente.
 
+# Diferenciadores Clave
+Diferenciador #1 — Perfil versátil entre análisis e ingeniería de datos.
+La mayoría de candidatos entry-level dominan dashboards y reportes, pero pocas personas en etapa junior entienden también cómo funcionan los pipelines ETL y la arquitectura de datos que alimenta esos dashboards. Kendall desarrolla ambas competencias, lo que la hace especialmente valiosa para empresas como Lifemiles o Goodyear que necesitan alguien que entienda el dato desde su origen hasta su presentación ejecutiva.
+Diferenciador #2 — Capacidad de comunicar datos a audiencias no técnicas.
+Todas las ofertas analizadas lo piden, pero pocos candidatos lo demuestran concretamente. El portafolio de Kendall evidencia esta habilidad a través de proyectos donde los resultados están presentados con visualizaciones limpias, métricas claras y narrativas orientadas a la toma de decisiones, no solo a la demostración técnica.
 
 
 
