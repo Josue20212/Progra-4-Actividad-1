@@ -81,9 +81,47 @@ Implementar visualizaciones que comuniquen insights
 Apoyar la creación de medidas DAX
 Colaborar con el equipo de datos y stakeholders
 
+# Analisis Oferta 3 — Lifemiles
+Nombre del puesto: Analista de Datos
+Empresa: Lifemiles
+Modalidad: Híbrido | San José, Costa Rica
+Portal: LinkedIn Jobs
 
+# Tecnologías requeridas
 
+SQL avanzado (consultas complejas, procedimientos almacenados, optimización)
+Herramientas ETL
+Python (valorado)
+APIs y servicios web
+Bases de datos relacionales
+Entornos cloud (valorado)
+Data Warehouse / modelado de datos
 
+# Habilidades técnicas (Hard Skills)
+
+Diseño, desarrollo y mantenimiento de procesos ETL
+Modelado de datos y arquitecturas de data warehouse
+Integración de múltiples fuentes de datos (internas, bancos, burós)
+Control y aseguramiento de calidad de datos
+Implementación de monitoreo y alertas de pipelines
+Creación de tableros de control y dashboards
+
+# Habilidades blandas (Soft Skills)
+
+Capacidad analítica y resolución de problemas
+Comunicación con áreas técnicas Y de negocio
+Trabajo en equipo
+Orientación a la mejora continua
+Atención a la integridad y disponibilidad de los datos
+
+# Responsabilidades principales
+
+Mapeo e integración de datos desde múltiples fuentes
+Diseño y desarrollo de procesos ETL hacia el data warehouse
+Creación de tablas consolidadas de información
+Monitoreo y alertas de cargas diarias de datos
+Mantenimiento y optimización de procesos de integración
+Desarrollo de dashboards para monitorear variables clave del negocio
 
 
 
