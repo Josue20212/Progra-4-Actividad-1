@@ -1,7 +1,7 @@
 # Progra-4-Actividad-1
 Primera practica previa a Quiz 1
 
-Enlace de Figma = https://www.figma.com/make/zwduBUeTaXNVhxNxFh9fiP/Mi-perfil?t=DwSxGvlNtg8uemcW-1
+Enlace a Página de Perfil profesional = https://josue20212.github.io/Progra-4-Actividad-1/
 
 # Data Analyst
 Investigación de ofertas laborales hecha en Linkedin
